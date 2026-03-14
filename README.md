@@ -28,3 +28,11 @@ How it works:
 - 📤 LeetHub 3.0 syncs it to this GitHub repo with problem title and code
 
 - No manual upload needed — everything stays organized and version-controlled!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+<!---LeetCode Topics End-->
