@@ -35,5 +35,6 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
