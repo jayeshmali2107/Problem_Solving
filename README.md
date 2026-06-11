@@ -48,5 +48,6 @@ How it works:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
