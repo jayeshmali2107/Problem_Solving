@@ -41,6 +41,7 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,12 @@ How it works:
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0009-palindrome-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
