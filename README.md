@@ -49,6 +49,7 @@ How it works:
 | [0560-subarray-sum-equals-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Hash Table
@@ -75,6 +76,7 @@ How it works:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Sliding Window
