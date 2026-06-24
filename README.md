@@ -56,6 +56,7 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -96,5 +97,10 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
