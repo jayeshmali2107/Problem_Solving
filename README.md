@@ -96,4 +96,5 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
