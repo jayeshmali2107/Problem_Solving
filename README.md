@@ -92,4 +92,8 @@ How it works:
 | [0713-subarray-product-less-than-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 <!---LeetCode Topics End-->
