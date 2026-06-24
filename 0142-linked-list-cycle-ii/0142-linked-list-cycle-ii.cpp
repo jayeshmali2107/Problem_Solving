@@ -27,7 +27,6 @@ public:
             return NULL;
         }
 
-        int count = 0;
         slow = head;
 
         while (slow != fast) {
