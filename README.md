@@ -68,6 +68,7 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0020-valid-parentheses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +107,8 @@ How it works:
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
