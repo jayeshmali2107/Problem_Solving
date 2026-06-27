@@ -54,6 +54,7 @@ How it works:
 | [0852-peak-index-in-a-mountain-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ How it works:
 | [0141-linked-list-cycle](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +140,5 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0136-single-number/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
