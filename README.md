@@ -45,6 +45,7 @@ How it works:
 | [0001-two-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0136-single-number/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -123,6 +124,7 @@ How it works:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -141,4 +143,8 @@ How it works:
 | ------- | ------- |
 | [0136-single-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0136-single-number/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
