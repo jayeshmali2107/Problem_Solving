@@ -116,6 +116,7 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0155-min-stack/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -147,4 +148,16 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
