@@ -48,6 +48,7 @@ How it works:
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0136-single-number/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0704-binary-search/) | Easy |
@@ -62,6 +63,7 @@ How it works:
 | [0001-two-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Math
@@ -129,18 +131,22 @@ How it works:
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +180,12 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
