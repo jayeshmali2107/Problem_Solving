@@ -53,6 +53,7 @@ How it works:
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0518-coin-change-ii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -167,6 +168,7 @@ How it works:
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0518-coin-change-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
