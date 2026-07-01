@@ -45,6 +45,7 @@ How it works:
 | [0001-two-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0136-single-number/) | Easy |
@@ -215,5 +216,6 @@ How it works:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
