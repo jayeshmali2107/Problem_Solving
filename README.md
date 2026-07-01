@@ -46,6 +46,7 @@ How it works:
 | [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
+| [0078-subsets](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -156,6 +157,7 @@ How it works:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0136-single-number/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Dynamic Programming
@@ -210,4 +212,8 @@ How it works:
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
