@@ -73,6 +73,7 @@ How it works:
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0009-palindrome-number/) | Easy |
+| [0070-climbing-stairs](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -161,6 +162,7 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -206,5 +208,6 @@ How it works:
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
