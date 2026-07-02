@@ -50,6 +50,7 @@ How it works:
 | [0078-subsets](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -168,6 +169,7 @@ How it works:
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0746-min-cost-climbing-stairs/) | Easy |
