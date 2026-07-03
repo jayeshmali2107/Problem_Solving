@@ -78,6 +78,7 @@ How it works:
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0509-fibonacci-number/) | Easy |
 ## String
@@ -93,6 +94,7 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
