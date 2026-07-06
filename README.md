@@ -39,6 +39,7 @@ How it works:
 | [0177-nth-highest-salary](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
