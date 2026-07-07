@@ -87,6 +87,7 @@ How it works:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -129,6 +130,7 @@ How it works:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -180,6 +182,7 @@ How it works:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0198-house-robber/) | Medium |
