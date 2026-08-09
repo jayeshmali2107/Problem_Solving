@@ -5,7 +5,7 @@ public:
         int left = 0;
         int right = n-1;
 
-        while(left < right){
+        while(left<right){
             int sum = numbers[left] + numbers[right];
             if(sum == target){
                 return {left+1,right+1};
