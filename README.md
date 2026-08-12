@@ -54,6 +54,7 @@ How it works:
 | [0039-combination-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0169-majority-element/) | Easy |
@@ -140,6 +141,7 @@ How it works:
 | [0005-longest-palindromic-substring](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -168,6 +170,7 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0347-top-k-frequent-elements/) | Medium |
