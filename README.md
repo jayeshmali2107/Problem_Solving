@@ -53,6 +53,7 @@ How it works:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0088-merge-sorted-array/) | Easy |
@@ -89,6 +90,7 @@ How it works:
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0509-fibonacci-number/) | Easy |
