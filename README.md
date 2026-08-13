@@ -40,6 +40,7 @@ How it works:
 | [0178-rank-scores](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0184-department-highest-salary](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0620-not-boring-movies/) | Easy |
