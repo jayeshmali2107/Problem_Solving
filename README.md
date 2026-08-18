@@ -45,6 +45,7 @@ How it works:
 | [0184-department-highest-salary](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0577-employee-bonus](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0620-not-boring-movies/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
