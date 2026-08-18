@@ -47,6 +47,7 @@ How it works:
 | [0196-delete-duplicate-emails](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0584-find-customer-referee/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0620-not-boring-movies/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Array
