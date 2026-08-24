@@ -107,6 +107,7 @@ How it works:
 | [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
