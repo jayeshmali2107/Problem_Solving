@@ -57,6 +57,7 @@ How it works:
 | [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0066-plus-one/) | Easy |
@@ -117,6 +118,7 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0349-intersection-of-two-arrays/) | Easy |
