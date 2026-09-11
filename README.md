@@ -294,4 +294,8 @@ How it works:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0075-sort-colors/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
