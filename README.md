@@ -56,6 +56,7 @@ How it works:
 | [0001-two-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0039-combination-sum/) | Medium |
@@ -153,6 +154,7 @@ How it works:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jayeshmali2107/DSA_Problem_Solving/tree/main/0088-merge-sorted-array/) | Easy |
